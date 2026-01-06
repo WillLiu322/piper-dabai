@@ -16,3 +16,6 @@
 [submodule "piper_sdk"]
 	path = piper_sdk
 	url = git@github.com:binb1nwu/piper_sdk.git
+[submodule "trac_ws/src/trac_ik"]
+	path = trac_ws/src/trac_ik
+	url = git@github.com:binb1nwu/trac_ik.git
