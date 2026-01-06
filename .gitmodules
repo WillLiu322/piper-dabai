@@ -10,3 +10,6 @@
 [submodule "moveit_ws/src/moveit2"]
 	path = moveit_ws/src/moveit2
 	url = git@github.com:binb1nwu/moveit2.git
+[submodule "orbbec_ws/src/OrbbecSDK_ROS2"]
+	path = orbbec_ws/src/OrbbecSDK_ROS2
+	url = git@github.com:binb1nwu/OrbbecSDK_ROS2.git
